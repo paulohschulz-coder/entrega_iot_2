@@ -3,7 +3,7 @@ Discente: Paulo Henrique Schulz
 Docente: Amanda Paul Dull
 
 Simular no Tinkercad:
-https://www.tinkercad.com/things/dOm2bxsyzHM-smashing-jarv/editel?returnTo=https%3A%2F%2Fwww.tinkercad.com%2Fdashboard%2Fdesigns%2Fall
+https://www.tinkercad.com/things/dOm2bxsyzHM-smashing-jarv/
 
 Enunciado: Controle de microservo com potenciômetro.
 O projeto vai utilizar um potenciômetro como entrada para controlar um servo motor como saída. Ao girar o potenciômetro, o Arduino identifica a posição e ajusta o ângulo do servo motor proporcionalmente, permitindo controlar seu movimento.
